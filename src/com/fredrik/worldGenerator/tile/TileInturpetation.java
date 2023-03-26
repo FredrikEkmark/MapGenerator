@@ -376,24 +376,24 @@ public class TileInturpetation {
             case 111, 112, 113, 211, 212, 213, 311, 312, 313 -> {return 0xc2d7f2;}  // Glacier
             case 123,  133, 143, 153 -> {return 0x1433a6;}  // Deep Water
             case 223, 233, 243, 253 -> {return 0x3c5cfa;}  // Coastal Water
-            case 322, 323 -> {return 0x528d9c;} // Lowland Tundra
-            case 422, 423 -> {return 0x2e5059;} // Highlands Tundra
+            case 322, 323 -> {return 0x10944b;} // Lowland Tundra
+            case 422, 423 -> {return 0x53916f;} // Highlands Tundra
             case 321 -> {return 0x768c91;} // Cold Desert
             case 421 -> {return 0x3c474a;} // Cold Desert Hills
-            case 331 -> {return 0x41b03e;}  // Temperate Lowlands Plains
-            case 332 -> {return 0x2a7328;}  // Temperate Forest
-            case 431 -> {return 0x4c782f;}  // Highland Hills
-            case 432 -> {return 0x284019;}  // Temperate Highland Forest
-            case 333 -> {return 0x0ccc66;}  // Temperate Rainforest
-            case 433 -> {return 0x07783c;}  // Temperate Highland Rainforest
+            case 331 -> {return 0x18d628;}  // Temperate Lowlands Plains
+            case 332 -> {return 0x10941b;}  // Temperate Forest
+            case 431 -> {return 0x6ed477;}  // Highland Hills
+            case 432 -> {return 0x498f4f;}  // Temperate Highland Forest
+            case 333 -> {return 0x084d0e;}  // Temperate Rainforest
+            case 433 -> {return 0x2a452c;}  // Temperate Highland Rainforest
             case 341 -> {return 0xe84827;} // Hot Desert
             case 441 -> {return 0x9c2e17;} // Hot Desert Hills
-            case 342 -> {return 0xc98806;} // Hot Steppe
-            case 442 -> {return 0x825804;} // Hot Steppe hills
-            case 351, 352, 343 -> {return 0xbf8e32;} // Tropical Savanna
-            case 451, 452, 443 -> {return 0x6e511d;} // Tropical Savanna Hills
-            case 353 -> {return 0x046126;} // Tropical Rainforest
-            case 453 -> {return 0x023314;} // Tropical Rainforest Hills
+            case 342 -> {return 0x459410;} // Hot Steppe
+            case 442 -> {return 0x69914e;} // Hot Steppe hills
+            case 351, 352, 343 -> {return 0x739410;} // Tropical Savanna
+            case 451, 452, 443 -> {return 0x7e8f4c;} // Tropical Savanna Hills
+            case 353 -> {return 0x3f5209;} // Tropical Rainforest
+            case 453 -> {return 0x464f2b;} // Tropical Rainforest Hills
             case 411, 412, 413 -> {return 0x9dc6fc;} // Glacial Heights
             case 511, 521, 531 -> {return 0xebf0f7;} // Frozen Mountains
             case 541, 551 -> {return 0x260f02;}  // Mountains
